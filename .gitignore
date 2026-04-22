@@ -1,0 +1,15 @@
+# virtual environments
+myenv311/
+venv/
+.env/
+
+# large datasets
+*.h5
+*.dll
+*.so
+*.pdf
+*.csv
+*.json
+picolt_dataset_enhanced/
+__pycache__/
+checkpoints/
